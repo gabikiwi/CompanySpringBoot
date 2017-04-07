@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Carrefour Admin Demo | Dashboard</title>
+    <title>Daimler Admin Demo | Dashboard</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- Bootstrap 3.3.2 -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />    
@@ -40,7 +40,7 @@
       
       <header class="main-header">
         <!-- Logo -->
-        <a href="index2.html" class="logo"><b>Admin</b>Carrefour</a>
+        <a href="index2.html" class="logo"><b>Admin </b>Daimler</a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
           <!-- Sidebar toggle button-->
@@ -240,16 +240,16 @@
               <!-- User Account: style can be found in dropdown.less -->
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                  <img src="dist/img/user2-160x160.jpg" class="user-image" alt="User Image"/>
-                  <span class="hidden-xs">Maria Ramos</span>
+                  <img src="dist/img/user1-128x128.jpg" class="user-image" alt="User Image"/>
+                  <span class="hidden-xs">Lauernt Pascal</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
                     <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
                     <p>
-                      Maria Ramos - Project Lead
-                      <small>Member since Nov. 2012</small>
+                      Laurent - Project Lead
+                      <small>Member since Nov. 2017</small>
                     </p>
                   </li>
                   <!-- Menu Body -->
@@ -286,10 +286,10 @@
           <!-- Sidebar user panel -->
           <div class="user-panel">
             <div class="pull-left image">
-              <img src="dist/img/user2-160x160.jpg" class="img-circle" alt="User Image" />
+              <img src="dist/img/user1-128x128.jpg" class="img-circle" alt="User Image" />
             </div>
             <div class="pull-left info">
-              <p>Maria Ramos</p>
+              <p>Lauernt Pascal</p>
 
               <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
             </div>
@@ -573,7 +573,7 @@
                     <p class="message">
                       <a href="#" class="name">
                         <small class="text-muted pull-right"><i class="fa fa-clock-o"></i> 5:15</small>
-                        Maria Ramos
+                        Melanie Safka
                       </a>
                       I would like to meet you to discuss the latest news about
                       the arrival of the new theme. They say it is going to be one the
@@ -885,7 +885,7 @@
         <div class="pull-right hidden-xs">
           <b>Version</b> 2.0
         </div>
-        <strong>Copyright &copy; 2014-2015 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2014-2015</strong> All rights reserved.
       </footer>
     </div><!-- ./wrapper -->
 
